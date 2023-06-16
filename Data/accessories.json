@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "category": "accessories",
+    "accessoryId": "apple-pencil-2nd-generation",
+    "itemId": "apple-pencil-2nd-generation",
+    "name": "Apple Pencil (2nd Generation)",
+    "fullPrice": 129,
+    "price": 119,
+    "color": "white",
+    "compatibleDevices": ["iPad Pro (3rd generation)", "iPad Pro (4th generation)", "iPad Air (4th generation)"],
+    "image": "img/accessories/apple-pencil/white/00.jpg"
+  },
+  {
+    "id": "2",
+    "category": "accessories",
+    "accessoryId": "samsung-galaxy-tab-s7-keyboard-cover-black",
+    "itemId": "samsung-galaxy-tab-s7-keyboard-cover-black",
+    "name": "Samsung Galaxy Tab S7 Keyboard Cover - Black",
+    "fullPrice": 169,
+    "price": 149,
+    "compatibleDevices": ["Samsung Galaxy Tab S7"],
+    "image": "img/accessories/samsung-galaxy-tab-s7/keyboard-cover-black/00.jpg"
+  },
+  {
+    "id": "3",
+    "category": "accessories",
+    "accessoryId": "logitech-slim-folio-pro-for-ipad-pro-12-9-3rd-generation",
+    "itemId": "logitech-slim-folio-pro-for-ipad-pro-12-9-3rd-generation",
+    "name": "Logitech Slim Folio Pro for iPad Pro 12.9' (3rd Generation)",
+    "fullPrice": 129.99,
+    "price": 119.99,
+    "compatibleDevices": ["iPad Pro 12.9' (3rd Generation)"],
+    "image": "img/accessories/logitech-slim-folio-pro/ipad-pro-12-9-3rd-generation/00.jpg"
+  },
+  {
+    "id": "4",
+    "category": "accessories",
+    "accessoryId": "belkin-boost-charge-usb-c-car-charger-18w",
+    "itemId": "belkin-boost-charge-usb-c-car-charger-18w",
+    "name": "Belkin Boost Charge USB-C Car Charger 18W",
+    "fullPrice": 29.99,
+    "price": 24.99,
+    "compatibleDevices": ["Tablets with USB-C port"],
+    "image": "img/accessories/belkin-boost-charge-usb-c-car-charger/00.jpg"
+  },
+  {
+    "id": "5",
+    "category": "accessories",
+    "accessoryId": "otterbox-defender-series-case-for-ipad-8th-7th-generation",
+    "itemId": "otterbox-defender-series-case-for-ipad-8th-7th-generation",
+    "name": "OtterBox Defender Series Case for iPad (8th/7th Generation)",
+    "fullPrice": 89.95,
+    "price": 79.95,
+    "compatibleDevices": ["iPad (8th generation)", "iPad (7th generation)"],
+    "image": "img/accessories/otterbox-defender-series-case/ipad-8th-7th-generation/00.jpg"
+  },
+  {
+    "id": "6",
+    "category": "accessories",
+    "accessoryId": "samsung-galaxy-tab-a7-lite-book-cover-gray",
+    "itemId": "samsung-galaxy-tab-a7-lite-book-cover-gray",
+    "name": "Samsung Galaxy Tab A7 Lite Book Cover - Gray",
+    "fullPrice": 49.99,
+    "price": 39.99,
+    "compatibleDevices": ["Samsung Galaxy Tab A7 Lite"],
+    "image": "img/accessories/samsung-galaxy-tab-a7-lite/book-cover-gray/00.jpg"
+  },
+  {
+    "id": "7",
+    "category": "accessories",
+    "accessoryId": "amazon-fire-hd-10-tempered-glass-screen-protector",
+    "itemId": "amazon-fire-hd-10-tempered-glass-screen-protector",
+    "name": "Amazon Fire HD 10 Tempered Glass Screen Protector",
+    "fullPrice": 12.99,
+    "price": 9.99,
+    "compatibleDevices": ["Amazon Fire HD 10"],
+    "image": "img/accessories/amazon-fire-hd-10/tempered-glass-screen-protector/00.jpg"
+  },
+  {
+    "id": "8",
+    "category": "accessories",
+    "accessoryId": "logitech-k380-multi-device-bluetooth-keyboard",
+    "itemId": "logitech-k380-multi-device-bluetooth-keyboard",
+    "name": "Logitech K380 Multi-Device Bluetooth Keyboard",
+    "fullPrice": 39.99,
+    "price": 34.99,
+    "compatibleDevices": ["Tablets, smartphones, computers"],
+    "image": "img/accessories/logitech-k380-multi-device-bluetooth-keyboard/00.jpg"
+  },
+  {
+    "id": "9",
+    "category": "accessories",
+    "accessoryId": "belkin-boost-charge-power-bank-10k-with-lightning-connector",
+    "itemId": "belkin-boost-charge-power-bank-10k-with-lightning-connector",
+    "name": "Belkin Boost Charge Power Bank 10K with Lightning Connector",
+    "fullPrice": 39.99,
+    "price": 29.99,
+    "compatibleDevices": ["Tablets, smartphones with Lightning connector"],
+    "image": "img/accessories/belkin-boost-charge-power-bank-10k/00.jpg"
+    },
+  {
+    "id": "10",
+    "category": "accessories",
+    "accessoryId": "anker-usb-c-hub-adapter",
+    "itemId": "anker-usb-c-hub-adapter",
+    "name": "Anker USB-C Hub Adapter",
+    "fullPrice": 49.99,
+    "price": 39.99,
+    "compatibleDevices": ["Tablets, laptops with USB-C port"],
+    "image": "img/accessories/anker-usb-c-hub-adapter/00.jpg"
+  }
+]
